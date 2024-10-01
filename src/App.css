@@ -1,0 +1,10 @@
+input,select,.inputThing button{
+  width: calc(25% - 10px);
+}
+.inputThing{
+  display: flex;
+  justify-content: space-between;
+}
+.list button{
+  margin-left: 20px;
+}
